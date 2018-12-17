@@ -1,0 +1,4 @@
+self: play -> apikey 1.0.0
+
+require:
+    - play

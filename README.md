@@ -1,5 +1,10 @@
 # play-apikey plugin
 
+[![GitHub release](https://img.shields.io/github/release/sismics/play-apikey.svg?style=flat-square)](https://github.com/sismics/play-apikey/releases/latest)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+# play-apikey plugin
+
 This module allows authentication via an API Key in Play! Framework 1 REST applications.
 
 # How to use
@@ -8,7 +13,7 @@ This module allows authentication via an API Key in Play! Framework 1 REST appli
 
 ```
 require:
-    - apikey -> apikey 1.0.0
+    - apikey -> apikey 1.1.0
 
 repositories:
     - apikey:
